@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi!
 
-<!--
-**wbthomason/wbthomason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a fifth-year PhD candidate in the [Department of Computer Science](https://www.cs.cornell.edu)
+at Cornell University. I work with [Professor Hadas Kress-Gazit](http://verifiablerobotics.com) on
+**combining symbolic and geometric planning**. Specifically, I’m interested in improving the efficiency,
+robustness, and utility of robot task and motion planning.
 
-Here are some ideas to get you started:
+Though I primarily research **robot planning**, I’m also interested in ML and formal methods for
+robotics, robotics research broadly, and programming languages. I am graciously funded by the [NDSEG
+Fellowship](https://ndseg.asee.org/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of work, I enjoy traveling, hiking, biking, playing/composing music, and writing open-source software (often in the form of [plugins](https://github.com/wbthomason/packer.nvim) [for](https://github.com/wbthomason/pdf-scribe.nvim) [Neovim](https://github.com/nvim-lua/lsp-status.nvim)).
+
+You can contact me through the information listed on my [website](https://wbthomason.github.io/).
