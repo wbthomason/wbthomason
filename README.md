@@ -1,6 +1,6 @@
 ### Hi!
 
-I am a fifth-year PhD candidate in the [Department of Computer Science](https://www.cs.cornell.edu)
+I am a nth-year PhD candidate in the [Department of Computer Science](https://www.cs.cornell.edu)
 at Cornell University. I work with [Professor Hadas Kress-Gazit](http://verifiablerobotics.com) on
 **combining symbolic and geometric planning**. Specifically, I’m interested in improving the efficiency,
 robustness, and utility of robot task and motion planning.
