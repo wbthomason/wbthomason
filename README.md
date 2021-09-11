@@ -1,6 +1,6 @@
 ### Hi!
 
-I am a roboticist with my PhD from the [Department of Computer Science](https://www.cs.cornell.edu)
+I am a roboticist with a PhD from the [Department of Computer Science](https://www.cs.cornell.edu)
 at Cornell University. I worked with [Professor Hadas Kress-Gazit](http://verifiablerobotics.com) on
 **combining symbolic and geometric planning**. Specifically, I’m interested in improving the efficiency,
 robustness, and utility of robot task and motion planning.
